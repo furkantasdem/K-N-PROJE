@@ -16,5 +16,5 @@ Bu React.js uygulaması, bir kişinin özgeçmişini dijital ortamda oluşturmak
 Proje, React.js ile geliştirilmiştir. Aşağıdaki komutları kullanarak projeyi çalıştırabilirsiniz:
 
 ```bash
-npm install
+npm install https://github.com/furkantasdem/K-N-PROJE.git
 npm start
