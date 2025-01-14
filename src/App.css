@@ -1,0 +1,34 @@
+.cv-container {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 20px;
+}
+
+.cv-header h1 {
+  text-align: center;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: hsl(268, 60%, 29%);
+}
+
+.social-icons {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 14px;
+}
+
+footer p {
+  color: #4d1717;
+}
